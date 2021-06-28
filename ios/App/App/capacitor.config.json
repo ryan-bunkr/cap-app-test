@@ -1,6 +1,7 @@
 {
 	"appId": "com.capAppTest.mobile",
-	"appName": "cap-app-test",
+	"appName": "cappAppTest",
 	"webDir": "build",
+	"npmClient": "npm",
 	"bundledWebRuntime": false
 }
