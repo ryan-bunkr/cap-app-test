@@ -1,0 +1,6 @@
+{
+  "appId": "com.capAppTest.mobile",
+  "appName": "cap-app-test",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
